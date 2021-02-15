@@ -1,0 +1,5 @@
+Credentials cache: API:7B8BE1C0-B943-403C-A83E-5BDDEAF8769C
+        Principal: lmajerus@S19.BE
+
+  Issued                Expires               Principal
+Oct  6 12:46:47 2020  Oct  6 22:46:47 2020  krbtgt/S19.BE@S19.BE
